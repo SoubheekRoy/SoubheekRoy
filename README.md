@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Soubheek Roy.
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning React.
 - 🌱 I'm currently pursuing BCA.
 - 💞️ I’m looking for a job.
 - 📫 How to reach me: https://www.linkedin.com/in/soubheek-roy
